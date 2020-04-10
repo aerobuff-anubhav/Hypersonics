@@ -52,7 +52,7 @@ clc;
 
 tic;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Start of Preamble
+% Start of Preamble
 
 % Adding Paths
 addpath(genpath('common'))
